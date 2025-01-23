@@ -32,15 +32,15 @@ const Home = () => {
             idx={15}/>
             <br/>
             <AnimatedLetters letterClass={letterClass}
-            strArray={'Web Developer'.split('')}
-            idx={22}/>
+            strArray={'Engineering Graduate'.split('')}
+            idx={15}/>
             </h1>
-            <h2>Frontend Developer / JavaScript Developer</h2>
+            <h2>Frontend Developer / Java Developer</h2>
             <Link to="/contact" className="flat-button">CONTACT ME</Link>
         </div>
         <Logo/>
       </div>
-      <Loader type="pacman" />
+      <Loader type="ball-scale-ripple-multiple" />
       </>
     );
 }

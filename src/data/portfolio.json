@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/arena_logo.png",
+            "title": "GTA5 Fivem Server: Lua and Web UI",
+            "description": "A custom GTA5 multiplayer server using Lua for scripting and HTML, CSS, and JavaScript",
+            "url": "https://www.youtube.com/playlist?list=PLTjPwwL9_KGsuNv7Z1-B-PpBQeH6nVIVp"
+        },
+        {
+            "cover": "/portfolio/vehicle-menu.png",
+            "title": "Vehicle Spawn Menu",
+            "description": "React‑VehicleSpawner is a feature‑rich vehicle spawn menu built with React, Lua, and TypeScript for game servers",
+            "url": "https://youtu.be/jC-DlaV211s"
+        },
+        {
+            "cover": "/portfolio/discord-js.png",
+            "title": "Discord Bot with discord.js",
+            "description": "Discord‑Bot is a feature‑rich Discord bot built using discord.js",
+            "url": "https://github.com/siddharth220/DiscordBot"
+        },
+        {
+            "cover": "/portfolio/java.jpg",
+            "title": "Hotel Management System",
+            "description": "A comprehensive Hotel Management System implemented in Java Swing and AWT, with a MySQL database backend",
+            "url": "https://github.com/siddharth220/Hotel-Management-System"
+        }
+    ]
+}

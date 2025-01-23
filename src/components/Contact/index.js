@@ -11,7 +11,7 @@ const Contact = () => {
     useEffect(() => {
         setTimeout(() => {
           return setletterClass('text-animate-hover')
-        }, 3000);
+        }, 4000);
       }, [])
 
       const sendEmail = (e) => {
@@ -69,7 +69,7 @@ const Contact = () => {
                 </div>
             </div>
         </div>
-        <Loader type='pacman' />
+        <Loader type="ball-scale-ripple-multiple" />
         </>
     )
 }
